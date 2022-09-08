@@ -1,4 +1,4 @@
-# flamekiller22
+# GitHub Stats
 
 
 [![](https://raw.githubusercontent.com/flamekiller22/flamekiller22/master/profile-summary-card-output/tokyonight/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
